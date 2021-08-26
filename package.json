@@ -1,0 +1,19 @@
+{
+  "name": "projet1",
+  "version": "1.0.0",
+  "description": "cours 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darcypoitras/projet1-alain-.git"
+  },
+  "author": "darcy p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darcypoitras/projet1-alain-/issues"
+  },
+  "homepage": "https://github.com/darcypoitras/projet1-alain-#readme"
+}
